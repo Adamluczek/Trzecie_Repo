@@ -5,10 +5,3 @@ print("Pierwsza LInijka Lokalnie")
 print("Druga Linijka lokalnie")
 
 print("Dodana linijka")
-
-
-
-
-
-
-
